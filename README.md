@@ -1,2 +1,1 @@
-# pantone
-Layout create to redirect clients who are interested in getting clothes of our new collection. Created in for HTML to redirect to products.
+![pantone](https://github.com/AmandaCylleno/pantone/assets/145169742/8aa14dd1-cdd5-4087-b891-c73d4cc91ab5)
